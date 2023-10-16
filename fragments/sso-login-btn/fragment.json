@@ -4,5 +4,6 @@
   "htmlPath": "index.html",
   "jsPath": "index.js",
   "name": "SSO login btn",
-  "type": "component"
+  "type": "component",
+  "description": "This fragment creates a redirect button to a given Identiy Provider login page. It skips the intermediary page of Liferay for selecting the desired Identity Provider."
 }
