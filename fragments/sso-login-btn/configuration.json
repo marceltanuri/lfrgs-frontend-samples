@@ -11,7 +11,7 @@
                         "placeholder": "Placeholder"
                     },
                     "dataType": "string",
-                    "defaultValue": "Go Somewhere"
+                    "defaultValue": "Sign-In with Google"
                 },
                 {
                     "name": "openIdProviderName",
