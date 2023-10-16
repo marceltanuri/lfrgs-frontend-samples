@@ -1,0 +1,25 @@
+.sso-login-btn {
+  color: inherit;
+  font-size: 18px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+
+.sso-login-btn {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.sso-login-btn {
+    text-align: center;
+  }
+
+.sso-login-btn button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }

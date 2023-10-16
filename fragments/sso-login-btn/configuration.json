@@ -1,0 +1,36 @@
+{
+    "fieldSets": [
+        {
+            "fields": [
+                {
+                    "name": "buttonText",
+                    "label": "Button Text",
+                    "description": "button-text",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Go Somewhere"
+                },
+                {
+                    "name": "openIdProviderName",
+                    "label": "OpenId Provider Name",
+                    "description": "openid-provider-name",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Google"
+                },
+                {
+                    "name": "callbackURL",
+                    "label": "Callback URL",
+                    "description": "callback-url",
+                    "type": "url"
+                }
+						]
+        }
+    ]
+}
