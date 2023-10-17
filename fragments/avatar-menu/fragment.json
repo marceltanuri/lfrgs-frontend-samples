@@ -1,0 +1,9 @@
+{
+  "cssPath": "index.css",
+  "configurationPath": "configuration.json",
+  "htmlPath": "index.html",
+  "jsPath": "index.js",
+  "name": "Avatar menu",
+  "type": "component",
+  "description": "This fragment adds the avatar menu to a page. It is useful to be add in blank master pages, for example. The avatar menu works as a login button when the user is not authtenticated"
+}
